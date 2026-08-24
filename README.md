@@ -2,7 +2,7 @@
 
 **AI-powered lead intelligence and sales workflow platform for discovering, qualifying, prioritizing and managing business opportunities.**
 
-> Public project showcase. The production source code is private.
+> LeadLens AI is actively developed in a private production repository. This public repository provides the product showcase, architecture overview, screenshots, and live demonstration.
 
 ## Live Demo
 
