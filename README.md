@@ -27,9 +27,37 @@ The current prototype uses vehicle-branding opportunities as a specialized first
 - Archive, restore and do-not-contact controls
 - Current specialized prototype: vehicle-branding opportunity analysis
 
-## Screenshots
+## Product Screenshots
 
-Screenshots of the main product workflow will be added here.
+### Opportunity Dashboard
+
+Central workspace for reviewing, filtering and prioritizing customer opportunities.
+
+![LeadLens AI Opportunity Dashboard](assets/opportunity-dashboard.png)
+
+### Opportunity Intelligence & Evidence
+
+Detailed opportunity analysis with supporting evidence and structured lead intelligence.
+
+![LeadLens AI Opportunity Evidence](assets/opportunity-evidence.png)
+
+### Why This Opportunity Matters
+
+Business signals and contextual insights used to understand and evaluate an opportunity.
+
+![LeadLens AI Opportunity Signals](assets/opportunity-signals.png)
+
+### Opportunity Pipeline
+
+CRM-style workflow for managing opportunities through different stages of the sales process.
+
+![LeadLens AI Opportunity Pipeline](assets/opportunity-pipeline.png)
+
+### Personalized Outreach Workflow
+
+Workspace for preparing and managing personalized communication with potential customers.
+
+![LeadLens AI Outreach Workflow](assets/outreach-workflow.png)
 
 ## Tech Stack
 
@@ -43,9 +71,9 @@ Screenshots of the main product workflow will be added here.
 
 ## Project Background
 
-LeadLens AI originated during the **STARTMIUP Hackathon — AI for Mittelhessen** and continued developing beyond the hackathon prototype.
+LeadLens AI originated during the **STARTMIUP Hackathon — AI for Mittelhessen** and has continued to evolve beyond the original hackathon prototype.
 
-The project is being explored as a broader lead-intelligence and sales-workflow product, with continued work around product design, data persistence, outreach workflows, customer responses and real-world usability.
+The project is being developed toward a broader lead-intelligence and sales-workflow product, with continued work around product design, data persistence, outreach workflows, customer responses and real-world usability.
 
 ## Current Status
 
